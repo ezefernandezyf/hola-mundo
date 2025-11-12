@@ -8,4 +8,4 @@ Actualmente aprendiendo sobre:
 - HTML, CSS y JavaScript
 
 📫 Cómo contactarme:
-[LinkedIn](https://www.linkedin.com/in/ezequiel-fernandez-59a21a387/) | [Email](ezefernandezyf@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ezequiel-fernandez-59a21a387/) | [Email](mailto:ezefernandezyf@gmail.com)
